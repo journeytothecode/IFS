@@ -1,0 +1,29 @@
+
+ Literal Lines of Code Score: 15
+  Average Literal Lines of Code: 1.0802
+  Total Physical Lines of Code: 28715
+  Most Literal Lines in Physical Line of Code: 17
+
+ Code Re-Use Score: 100
+  Number of reused lines: 1928
+  Average # of Lines of Reuse: 7.34388
+  Most reused line # of times: 282
+  Most reused line: *ofpatentrightscanbefoundinthePATENTSfileinthesamedirectory.
+
+ Overall Complexity Score: 11
+  Average Complexity: 2.0816
+  Deepest Function Depth: 9
+
+ Function Size Score: 34
+  Average Length of Function: 58.3989
+  Total Function Length: 64414
+  Number of Functions: 1103
+
+ Variable/Function Quality Score: 23
+  CamelCase names: 324
+  Delimited names: 375
+  Non-standard names: 535
+  Number of names total: 3652
+
+================================================
+  Total score: 183 points

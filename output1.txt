@@ -1,0 +1,13 @@
+
+ Literal Lines of Code Score: 15
+
+ Code Re-Use Score: 100
+
+ Overall Complexity Score: 11
+
+ Function Size Score: 34
+
+ Variable/Function Quality Score: 23
+
+================================================
+  Total score: 183 points
